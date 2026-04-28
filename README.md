@@ -1,3 +1,3 @@
 # positron-workshop-project
 
-An example project to accompany https://github.com/posit-dev/positron-workshop-project-sdss-2026
+An example project to accompany https://github.com/mine-cetinkaya-rundel/positron-sdss-2026
