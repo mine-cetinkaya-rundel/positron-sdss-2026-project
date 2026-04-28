@@ -2,7 +2,6 @@
 title: "Hello, Quarto"
 format: 
   html: default
-  pdf: default
 ---
 
 ```{r}
@@ -10,6 +9,15 @@ format:
 #| include: false
 library(tidyverse)
 library(palmerpenguins)
+```
+
+```{r}
+#| label: hello
+x <- 1
+
+y <- 2
+
+z <- 
 ```
 
 ## Meet Quarto
